@@ -161,8 +161,7 @@ print[predictions]
 
 ### New Sample Data Prediction
 
-<img width="367" alt="image" src="https://user-images.githubusercontent.com/108709865/194303112-ddc62f52-d6d6-4c21-b0f9-9ffee0653c90.png">
-
+![image](https://github.com/prathima2002/malaria-cell-recognition/blob/7b2a973da8afd22f1f600f8dcbfd1441479f864a/WhatsApp%20Image%202022-10-06%20at%2017.08.08.jpeg)
 
 ## RESULT
 Successfully developed a convolutional deep neural network for Malaria Infected Cell Recognition.
