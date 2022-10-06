@@ -149,7 +149,7 @@ print[predictions]
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/108709865/194302701-f310876f-3f00-426e-a5a9-a9e68ef4b3fd.png">
+![image](https://github.com/prathima2002/malaria-cell-recognition/blob/426c861bfa612b55f11b82581777c9d80a988590/WhatsApp%20Image%202022-10-06%20at%2017.06.31.jpeg)
 
 ### Classification Report
 
