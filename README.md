@@ -153,8 +153,7 @@ print[predictions]
 
 ### Classification Report
 
-<img width="597" alt="image" src="https://user-images.githubusercontent.com/108709865/194302876-b9fd2be3-8d07-4156-9300-df2e767bb0f9.png">
-
+![image](https://github.com/prathima2002/malaria-cell-recognition/blob/4cea901bb9a47a919630178297c9e0a465bdc8b3/WhatsApp%20Image%202022-10-06%20at%2017.07.10.jpeg)
 
 ### Confusion Matrix
 
