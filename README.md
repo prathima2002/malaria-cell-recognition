@@ -157,8 +157,7 @@ print[predictions]
 
 ### Confusion Matrix
 
-<img width="273" alt="image" src="https://user-images.githubusercontent.com/108709865/194302994-04e7a7f5-dd8b-4df7-90ae-dc610390b077.png">
-
+![image](https://github.com/prathima2002/malaria-cell-recognition/blob/3befc79558f84750bf3c07267bce69ea274571c9/WhatsApp%20Image%202022-10-06%20at%2017.07.40.jpeg)
 
 ### New Sample Data Prediction
 
